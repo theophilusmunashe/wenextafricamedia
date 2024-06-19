@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "title": "Digital Marketing",
+    "description": "Brand identity design is the key to success whether you breathe rebranding.",
+    "link": "/about"
+  },
+  {
+    "id": 2,
+    "icon": "/assets/imgs/serv-icons/1.png",
+    "title": "Brand Strategy",
+    "description": "Brand identity design is the key to success whether you breathe rebranding.",
+    "link": "/about"
+  },
+  {
+    "id": 3,
+    "icon": "/assets/imgs/serv-icons/2.png",
+    "title": "SEO Optimization",
+    "description": "Brand identity design is the key to success whether you breathe rebranding.",
+    "link": "/about"
+  },
+  {
+    "id": 4,
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "title": "Content Creation",
+    "description": "Brand identity design is the key to success whether you breathe rebranding.",
+    "link": "/about"
+  }
+]
