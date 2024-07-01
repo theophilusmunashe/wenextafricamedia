@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Bayone",
+      title: "Sources Consultants",
       htmlAttrs: {
         lang: 'en'
       },
@@ -28,15 +28,15 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template Bayone Multi-Purpose themeforest'
+          content: 'Sources Consultants Sources Media Creative Agency Brand Strategy Advertising Campaigns Content Creation Creative Services Public Relations Digital Marketing Brand Identity Marketing Strategy Social Media Marketing Visual Design Graphic Design Video Production Corporate Branding Innovative MarketingMarketing Solutions Brand Development Strategic Planning'
         },
         {
           name: 'description',
-          content: 'Bayone - Multi-Purpose Vue Nuxtjs Template'
-        },
+          content: 'Sources Media Consultants is a young and energetic creative agency. We combine imaginative thinking with strategic planning to craft a stand-out image for your brand'
+                },
         {
           name: 'author',
-          content: 'UiCamp'
+          content: 'Theophilus Munashe Maposa'
         }
       ],
       "link": [

@@ -7,35 +7,7 @@
             <ul class="main-menu rest">
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
                 <div class="o-hidden">
-                  <span class="link dmenu" @click="handleOpenDMenu"><span class="nm">01.</span>Home </span>
-                </div>
-                <div class="sub-menu">
-                  <ul class="rest">
-                    <li>
-                      <div class="o-hidden">
-                        <span class="sub-link back" @click="handleCloseDMenu"><i class="pe-7s-angle-left"></i> Go
-                          Back</span>
-                      </div>
-                    </li>
-                  </ul>
-                  <ul class="rest">
-                    <li>
-                      <div class="o-hidden">
-                        <a href="/creative-agency" class="sub-link animsition-link" @click="closeMenu">Creative Agency</a>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="o-hidden">
-                        <a href="/creative-portfolio" class="sub-link animsition-link" @click="closeMenu">Creative
-                          Portfolio</a>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="o-hidden">
-                        <a href="/landing" class="sub-link animsition-link" @click="closeMenu">Home Landing</a>
-                      </div>
-                    </li>
-                  </ul>
+                  <a href="/about" class="link animsition-link" @click="closeMenu"><span class="nm">01.</span>Home</a>
                 </div>
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
@@ -45,7 +17,7 @@
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
                 <div class="o-hidden">
-                  <span class="link dmenu" @click="handleOpenDMenu"><span class="nm">03.</span>Portfolio </span>
+                  <span class="link dmenu" @click="handleOpenDMenu"><span class="nm">03.</span>Projects </span>
                 </div>
                 <div class="sub-menu">
                   <ul class="rest">
@@ -60,68 +32,14 @@
                     <div class="col-md-6">
                       <ul class="rest">
                         <li>
-                          <div class="o-hidden">
-                            <a href="/fullscreen" class="sub-link animsition-link" @click="closeMenu">Fullscreen
-                              Slider</a>
-                          </div>
+                          
                         </li>
                         <li>
                           <div class="o-hidden">
-                            <a href="/carousel-slider" class="sub-link animsition-link" @click="closeMenu">Carousel
-                              Slider</a>
+                            <a href="/carousel-slider" class="sub-link animsition-link" @click="closeMenu">Sources Projects</a>
                           </div>
                         </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/half-slider" class="sub-link animsition-link" @click="closeMenu">Creative Slider</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/interactive-full" class="sub-link animsition-link" @click="closeMenu">Interactive
-                              Full</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/interactive-center" class="sub-link animsition-link" @click="closeMenu">Interactive
-                              Center</a>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="col-md-6">
-                      <ul class="rest">
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/interactive-inline" class="sub-link animsition-link" @click="closeMenu">Interactive
-                              Inline</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/interactive-vertical" class="sub-link animsition-link"
-                              @click="closeMenu">Interactive Vertical</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/portfolio-fixed-text" class="sub-link animsition-link" @click="closeMenu">Creative
-                              Portfolio</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/portfolio-grid" class="sub-link animsition-link" @click="closeMenu">Portfolio
-                              Grid</a>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="o-hidden">
-                            <a href="/portfolio-grid-classic" class="sub-link animsition-link"
-                              @click="closeMenu">Portfolio Classic</a>
-                          </div>
-                        </li>
+                       
                       </ul>
                     </div>
                   </div>
@@ -129,7 +47,7 @@
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
                 <div class="o-hidden">
-                  <a href="/blog" class="link animsition-link" @click="closeMenu"><span class="nm">04.</span>Stories</a>
+                  <a href="/#0" class="link animsition-link" @click="closeMenu"><span class="nm">04.</span>Stories</a>
                 </div>
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
@@ -144,13 +62,14 @@
         <div class="col-lg-4 valign">
           <div class="cont-info">
             <div class="item mb-50">
-              <h6 class="text-u fw-600 mb-20">Base</h6>
-              <p class="fw-400 fz-18">Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+              <h6 class="text-u fw-600 mb-20">Address</h6>
+              <p class="fw-400 fz-18">3rd floor Runhare HOUSE
+                107 kwame Nkrumah HARARE</p>
             </div>
             <div class="item mb-50">
               <h6 class="text-u fw-600 mb-20">How to Connect</h6>
-              <p class="fw-400 fz-18">+2 456 34324 45</p>
-              <p class="fw-400 fz-18">hello@Bayone.com</p>
+              <p class="fw-400 fz-18">+263776517766</p>
+              <p class="fw-400 fz-18">admin@sourcesmedia.com</p>
             </div>
             <div class="bottom">
               <h6 class="text-u fw-600 mb-20">Follow Us</h6>

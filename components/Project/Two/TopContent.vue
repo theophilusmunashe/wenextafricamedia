@@ -3,17 +3,21 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5">
-          <h2 class="mb-50">The <br /> Challenge</h2>
+          <h2 class="mb-50">The <br /> Overview</h2>
         </div>
         <div class="col-lg-7">
           <div class="text">
-            <h5 class="mb-30 fw-400 line-height-40">The goal is there are many variations of passages of Lorem Ipsum
-              available, but the majority have suffered alteration in some form, by injected humour, or randomised words
-              which don't look even slightly believable.</h5>
-            <p class="fz-18">There are many variations of passages of Lorem Ipsum available, but the majority have
-              suffered alteration in some form, by injected humour, or randomised words which don't look even slightly
-              believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-              embarrassing hidden in the middle of text.</p>
+            <h5 class="mb-30 fw-400 line-height-40">Stanbic Bank enlisted the expertise of Sources Consultants to revitalize 
+              its brand identity and enhance its market positioning. The objective was to develop a
+               cohesive and compelling branding strategy that would resonate with existing customers,
+                attract new clients, and reinforce Stanbic Bank's reputation as a leading financial 
+                institution in the region.</h5>
+            <p class="fz-18">Objective:
+
+              To create a unified and recognizable brand identity for Stanbic Bank.
+              To strengthen brand loyalty and customer trust.
+              To differentiate Stanbic Bank from competitors through a unique value proposition.
+              To enhance the bank’s visibility and engagement across multiple channels.</p>
           </div>
           <div class="accordion bord mt-100">
             <div v-for="(item, index) in accordionData" :key="index" class="item mb-20 wow fadeInUp"
@@ -38,23 +42,23 @@ import { ref, onMounted } from 'vue';
 
 const accordionData = ref([
   {
-    title: 'The Power of Influencer Marketing',
-    content: 'Taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole.',
+    title: 'Brand Audit and Research',
+    content: 'Conducted a thorough brand audit to assess current brand perception and market positioning.',
     delay: '.1s'
   },
   {
-    title: 'Unique and Influential Design',
-    content: 'Taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole.',
+    title: 'Brand Strategy Development',
+    content: 'Defined the core brand values, mission, and vision aligned with Stanbic Bank’s strategic goals.',
     delay: '.3s'
   },
   {
-    title: 'We Build and Activate Brands',
-    content: 'Taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole.',
+    title: 'Visual Identity Revamp',
+    content: 'Designed a refreshed logo that embodies the bank’s heritage and forward-thinking approach.',
     delay: '.5s'
   },
   {
-    title: 'Unique and Influential Design',
-    content: 'Taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole.',
+    title: 'Internal Branding',
+    content: 'Implemented internal branding initiatives to ensure employees are brand ambassadors.',
     delay: '.7s'
   }
 ]);

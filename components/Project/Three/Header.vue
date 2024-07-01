@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-12">
           <div class="caption">
-            <h1>Technology Process</h1>
+            <h1>Econet Wireless</h1>
           </div>
         </div>
       </div>

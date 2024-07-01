@@ -565,7 +565,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.redirect,
-    component: () => import("./_nuxt/about-B8Kkyu1t.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/about-Cf-IzaDC.js").then((m) => m.default || m)
   },
   {
     name: "blog-details",
@@ -573,7 +573,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$k == null ? void 0 : __nuxt_page_meta$k.redirect,
-    component: () => import("./_nuxt/blog-details-DZX9JKBR.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-details-DeOdwSHm.js").then((m) => m.default || m)
   },
   {
     name: "blog",
@@ -581,7 +581,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$j == null ? void 0 : __nuxt_page_meta$j.redirect,
-    component: () => import("./_nuxt/blog-BogkxeTt.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/blog-ggwe3vzg.js").then((m) => m.default || m)
   },
   {
     name: "carousel-slider",
@@ -589,7 +589,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.redirect,
-    component: () => import("./_nuxt/carousel-slider-BkIakZzd.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/carousel-slider-D1Ch62Cn.js").then((m) => m.default || m)
   },
   {
     name: "contact",
@@ -597,7 +597,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$h == null ? void 0 : __nuxt_page_meta$h.redirect,
-    component: () => import("./_nuxt/contact-DhJdlKyG.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/contact-DHt8q3wn.js").then((m) => m.default || m)
   },
   {
     name: "creative-agency",
@@ -605,7 +605,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$g == null ? void 0 : __nuxt_page_meta$g.redirect,
-    component: () => import("./_nuxt/creative-agency-9-9fgQZO.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/creative-agency-b3Z2j7WL.js").then((m) => m.default || m)
   },
   {
     name: "creative-portfolio",
@@ -613,7 +613,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$f == null ? void 0 : __nuxt_page_meta$f.redirect,
-    component: () => import("./_nuxt/creative-portfolio-D35M6cSk.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/creative-portfolio-CUPcCeAG.js").then((m) => m.default || m)
   },
   {
     name: "fullscreen",
@@ -621,7 +621,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$e == null ? void 0 : __nuxt_page_meta$e.redirect,
-    component: () => import("./_nuxt/fullscreen-DqbLhMSP.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/fullscreen-8rbGLTej.js").then((m) => m.default || m)
   },
   {
     name: "half-slider",
@@ -629,7 +629,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$d == null ? void 0 : __nuxt_page_meta$d.redirect,
-    component: () => import("./_nuxt/half-slider-28SBr_MY.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/half-slider-trGaFLV2.js").then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) ?? "index",
@@ -645,7 +645,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$b == null ? void 0 : __nuxt_page_meta$b.redirect,
-    component: () => import("./_nuxt/interactive-center-BGgs4UbJ.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/interactive-center-BddioDrO.js").then((m) => m.default || m)
   },
   {
     name: "interactive-full",
@@ -653,7 +653,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$a == null ? void 0 : __nuxt_page_meta$a.redirect,
-    component: () => import("./_nuxt/interactive-full-CNMaLuyu.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/interactive-full-C7_sWHYP.js").then((m) => m.default || m)
   },
   {
     name: "interactive-inline",
@@ -661,7 +661,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$9 == null ? void 0 : __nuxt_page_meta$9.redirect,
-    component: () => import("./_nuxt/interactive-inline-WtxINOkP.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/interactive-inline-UritutRm.js").then((m) => m.default || m)
   },
   {
     name: "interactive-vertical",
@@ -669,7 +669,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$8 == null ? void 0 : __nuxt_page_meta$8.redirect,
-    component: () => import("./_nuxt/interactive-vertical-CRgxfK_m.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/interactive-vertical-DsSx5EDw.js").then((m) => m.default || m)
   },
   {
     name: "landing",
@@ -677,7 +677,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$7 == null ? void 0 : __nuxt_page_meta$7.redirect,
-    component: () => import("./_nuxt/landing-C4tHYvhy.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/landing-BcSTIutd.js").then((m) => m.default || m)
   },
   {
     name: "portfolio-fixed-text",
@@ -685,7 +685,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$6 == null ? void 0 : __nuxt_page_meta$6.redirect,
-    component: () => import("./_nuxt/portfolio-fixed-text-0p-2ALL_.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/portfolio-fixed-text-DRpSq_sh.js").then((m) => m.default || m)
   },
   {
     name: "portfolio-grid-classic",
@@ -693,7 +693,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$5 == null ? void 0 : __nuxt_page_meta$5.redirect,
-    component: () => import("./_nuxt/portfolio-grid-classic-BBFaH-0g.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/portfolio-grid-classic-J9A-la6-.js").then((m) => m.default || m)
   },
   {
     name: "portfolio-grid",
@@ -701,7 +701,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$4 == null ? void 0 : __nuxt_page_meta$4.redirect,
-    component: () => import("./_nuxt/portfolio-grid-Ca45lBiH.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/portfolio-grid-CFPnte3b.js").then((m) => m.default || m)
   },
   {
     name: "project1",
@@ -709,7 +709,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$3 == null ? void 0 : __nuxt_page_meta$3.redirect,
-    component: () => import("./_nuxt/project1-Bwz5_qBN.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/project1-Bmjv8nDC.js").then((m) => m.default || m)
   },
   {
     name: "project2",
@@ -717,7 +717,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.redirect,
-    component: () => import("./_nuxt/project2-CApbe0ag.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/project2-CqZ1A0Us.js").then((m) => m.default || m)
   },
   {
     name: "project3",
@@ -725,7 +725,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$1 == null ? void 0 : __nuxt_page_meta$1.redirect,
-    component: () => import("./_nuxt/project3-BZ1SD28H.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/project3-C_KgnqO8.js").then((m) => m.default || m)
   },
   {
     name: "project4",
@@ -733,7 +733,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta == null ? void 0 : __nuxt_page_meta.redirect,
-    component: () => import("./_nuxt/project4-DRSWEKIl.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/project4-BmEcbA7r.js").then((m) => m.default || m)
   }
 ];
 const _wrapIf = (component, props, slots) => {

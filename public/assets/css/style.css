@@ -15,7 +15,7 @@
 
 body {
   color: #fff;
-  background-color: #0723bd;
+  background-color: #cc7c0c;
   font-size: 14px;
   font-family: 'Poppins', sans-serif;
   font-family: 'Mona-Sans Regular', sans-serif;
@@ -4333,8 +4333,8 @@ body.loaded {
 }
 
 .brands .brand-items .img {
-  width: 120px;
-  margin: 50px auto;
+  width: 220px;
+  margin: 70px auto;
   opacity: .7;
 }
 

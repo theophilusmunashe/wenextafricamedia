@@ -9,10 +9,10 @@
             </div>
             <div class="col-lg-7">
               <div class="text">
-                <p class="fz-18">There are many variations of passages of Lorem Ipsum available, but the majority have
-                  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly
-                  believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                  embarrassing hidden in the middle of text.</p>
+                <p class="fz-18">Successfully launched a series of high-quality livestreams that attracted significant viewership and engagement.
+                  Increased awareness and understanding of natural resource governance issues among communities and stakeholders.
+                  Strengthened CNRG’s advocacy efforts by providing a transparent and accessible platform for discussion and education.
+                  Fostered a collaborative environment where stakeholders could share ideas, experiences, and solutions..</p>
               </div>
             </div>
           </div>

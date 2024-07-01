@@ -9,7 +9,7 @@
                 we would love to hear from you.
               </h6>
               <h2 class="underline fz-60">
-                <a href="#0">info@sources.com</a>
+                <a href="#0">admin@sourcesmedia.com</a>
               </h2>
             </div>
           </div>
@@ -33,18 +33,18 @@
                 <li class="hover-this cursor-pointer">
                   <a href="#0" class="hover-anim">LinkedIn</a>
                 </li>
-                <li class="hover-this cursor-pointer">
-                  <a href="#0" class="hover-anim">Behance</a>
-                </li>
+                
+                
               </ul>
             </div>
           </div>
           <div class="col-lg-3">
             <div class="column">
               <h6 class="sub-title mb-30">Our Office :</h6>
-              <p>2nd floor , runhare house , union building , harare ,zim</p>
+              <p>3rd floor Runhare HOUSE
+                107 kwame Nkrumah HARARE</p>
               <h5 class="mt-15 underline">
-                <a href="#0">+2 456 34324 45</a>
+                <a href="#0">+263776517766</a>
               </h5>
             </div>
           </div>

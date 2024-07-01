@@ -4,9 +4,11 @@
       <div class="row">
         <div class="col-lg-6 valign">
           <div class="full-width mb-30">
-            <h1 class="fz-60">Artboard Studio</h1>
-            <p>We provide digital experience services to startups and small businesses. We help our clients succeed by
-              creating brand identities.</p>
+            <h1 class="fz-60">Project 2</h1>
+            <p>The comprehensive branding strategy developed for Stanbic Bank by Sources Consultants  successfully rejuvenated the bank’s image, 
+              creating a strong and cohesive brand presence in the market. 
+              Our strategic approach and creative execution have positioned Stanbic Bank for continued 
+              growth and success. Sources Consultants is proud to be a part of this remarkable transformation journey.</p>
           </div>
         </div>
         <div class="col-lg-5 offset-lg-1">
@@ -14,26 +16,26 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="item mb-30">
-                  <span class="opacity-8 mb-5">Category :</span>
-                  <h6>Development</h6>
+                  <span class="opacity-8 mb-5">Client :</span>
+                  <h6>Stanbic Bank</h6>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="item mb-30">
-                  <span class="opacity-8 mb-5">Client :</span>
-                  <h6>Envato</h6>
+                  <span class="opacity-8 mb-5">Project :</span>
+                  <h6>Comprehensive Branding Strategy</h6>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="item mb-30">
                   <span class="opacity-8 mb-5">Start Date :</span>
-                  <h6>7 August 2023</h6>
+                  <h6>7 February 2022</h6>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="item">
-                  <span class="opacity-8 mb-5">Designer :</span>
-                  <h6>UiCamp</h6>
+                  <span class="opacity-8 mb-5">Location:</span>
+                  <h6>Harare, Zimbabwe</h6>
                 </div>
               </div>
             </div>
@@ -47,17 +49,17 @@
           <swiper v-bind="swiperOptions" class="swiper-container" id="content-carousel-container-unq-project2">
             <swiper-slide>
               <div class="img">
-                <img src="/assets/imgs/works/projects/2/1.jpg" alt="" />
-              </div>
-            </swiper-slide>
-            <swiper-slide>
-              <div class="img">
                 <img src="/assets/imgs/works/projects/2/2.jpg" alt="" />
               </div>
             </swiper-slide>
             <swiper-slide>
               <div class="img">
                 <img src="/assets/imgs/works/projects/2/3.jpg" alt="" />
+              </div>
+            </swiper-slide>
+            <swiper-slide>
+              <div class="img">
+                <img src="/assets/imgs/works/projects/2/2.jpg" alt="" />
               </div>
             </swiper-slide>
           </swiper>

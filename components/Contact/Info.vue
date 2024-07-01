@@ -9,19 +9,20 @@
         <div class="col-lg-4 col-md-6">
           <div class="item text-center sm-mb50 md-mb50">
             <span class="sub-title opacity-8 mb-5">Email :</span>
-            <h6>info@sources.com</h6>
+            <h6>admin@sourcesmedia.com</h6>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="item text-center sm-mb50">
             <span class="sub-title opacity-8 mb-5">office :</span>
-            <h6>2nd floor , Runhare House <br /> Harare, Zimbabwe</h6>
+            <h6>3rd floor Runhare HOUSE
+              107 kwame Nkrumah  Harare, Zimbabwe</h6>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="item text-center">
             <span class="sub-title opacity-8 mb-5">Phone :</span>
-            <h6>+2 456 34324 45</h6>
+            <h6>+263776517766</h6>
           </div>
         </div>
       </div>

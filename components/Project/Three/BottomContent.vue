@@ -9,10 +9,10 @@
             </div>
             <div class="col-lg-7">
               <div class="text">
-                <p class="fz-18">There are many variations of passages of Lorem Ipsum available, but the majority have
-                  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly
-                  believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                  embarrassing hidden in the middle of text.</p>
+                <p class="fz-18">Successfully executed a memorable and high-impact Hallo 25 Programme that resonated with a wide audience.
+                  Increased brand loyalty and customer engagement through targeted appreciation initiatives and interactive experiences.
+                  Enhanced public perception and awareness of Econet Wireless’s contributions to the telecommunications industry and community development.
+                  Achieved extensive media coverage and social media buzz, amplifying the reach and impact of the anniversary celebrations.</p>
               </div>
             </div>
           </div>

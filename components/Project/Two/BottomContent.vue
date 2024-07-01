@@ -4,21 +4,19 @@
       <div class="row justify-content-center">
         <div class="col-lg-11">
           <div class="img">
-            <img src="/assets/imgs/works/projects/2/4.jpg" alt="" />
+            <img src="/assets/imgs/works/projects/2/3.jpg" alt="" />
           </div>
           <div class="cont section-padding">
             <div class="row">
               <div class="col-md-3 sm-mb30">
-                <h6>The Story</h6>
+                <h6>The Results</h6>
               </div>
               <div class="col-lg-6 col-md-9">
                 <div class="text">
-                  <p>We provide digital experience services to startups and small businesses. We help our clients succeed
-                    by creating brand identities, digital experiences, and print materials. Install any demo, plugin or
-                    template in a matter of seconds. Just select the demo and click OK. It’s that easy! The latest design
-                    trends meet hand-crafted templates in Ave Collection. Use pre-built sections to speed up your design
-                    process. Open a beautiful store, increase your conversion rates and boost your sales in minutes with
-                    object-oriented UX.</p>
+                  <p>Successfully launched a revitalized brand identity that received positive feedback from customers and stakeholders.
+                    Increased brand recognition and market share through targeted marketing efforts.
+                    Strengthened customer loyalty and trust, evidenced by a rise in customer satisfaction scores.
+                    Enhanced online engagement and visibility, resulting in higher website traffic and social media interaction.</p>
                 </div>
               </div>
             </div>
@@ -29,16 +27,15 @@
           <div class="cont section-padding">
             <div class="row">
               <div class="col-md-3 offset-lg-2 sm-mb30">
-                <h6>Approach</h6>
+                <h6>Client Feedback</h6>
               </div>
               <div class="col-lg-6 col-md-9">
                 <div class="text">
-                  <p>We provide digital experience services to startups and small businesses. We help our clients succeed
-                    by creating brand identities, digital experiences, and print materials. Install any demo, plugin or
-                    template in a matter of seconds. Just select the demo and click OK. It’s that easy! The latest design
-                    trends meet hand-crafted templates in Ave Collection. Use pre-built sections to speed up your design
-                    process. Open a beautiful store, increase your conversion rates and boost your sales in minutes with
-                    object-oriented UX.</p>
+                  <p>"The rebranding initiative with Sources Consultants has been transformative for Stanbic Bank. 
+                    Their strategic insights and creative expertise have revitalized our brand, making it more 
+                    ppealing and relevant to our customers. The entire process was seamless, and the results speak
+                     for themselves. We are thrilled with the outcome and look forward to our continued partnership."
+                    — Sarah Moyo, Head of Marketing, Stanbic Bank</p>
                 </div>
               </div>
             </div>
