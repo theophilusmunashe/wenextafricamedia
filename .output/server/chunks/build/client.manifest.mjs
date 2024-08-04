@@ -26,6 +26,8 @@ const client_manifest = {
     "file": "B-jhBiqc.js",
     "name": "virtual_public",
     "imports": [
+      "_DMywygAQ.js",
+      "_Bjdl2_Gg.js",
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
