@@ -2,8 +2,8 @@
   <header>
     <div class="caption">
       <div class="text-center">
-        <h2>SOURCES CONSULTANTS</h2>
-        <h5 class="f-ultra-light">YOUR FULL SERVICE-MEDIA AND PUBLIC RELATIONS FIRM.</h5>
+        <h2>WENEXT AFRICA MEDIA</h2>
+        <h5 class="f-ultra-light">Crafting Your Corporate Culture Into Captivating Stories</h5>
         <br><br>
          <a href="/about" class="butn butn-bord butn-cerv ml-auto text-u">
         <span class="sub-title ls1">About Us</span>

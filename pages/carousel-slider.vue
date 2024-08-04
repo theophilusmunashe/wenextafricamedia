@@ -8,7 +8,7 @@
 <script setup>
 //= Page Head
 useHead({
-  titleTemplate: `Sources-Consultants: Projects`,
+  titleTemplate: `WeNext Africa Media: Projects`,
   bodyAttrs: {
     class: 'main-bg'
   }

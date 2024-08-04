@@ -9,7 +9,7 @@
                 we would love to hear from you.
               </h6>
               <h2 class="underline fz-60">
-                <a href="#0">admin@sourcesmedia.com</a>
+                <a href="#0">media@wenextafrica.com</a>
               </h2>
             </div>
           </div>
@@ -44,7 +44,7 @@
               <p>3rd floor Runhare HOUSE
                 107 kwame Nkrumah HARARE</p>
               <h5 class="mt-15 underline">
-                <a href="#0">+263776517766</a>
+                <a href="#0">+263779790287</a>
               </h5>
             </div>
           </div>
@@ -71,7 +71,7 @@
             <div class="copyright d-flex">
               <div class="ml-auto">
                 <p class="fz-13">
-                  © 2024 Sources Consultants 
+                  © 2024 WeNext Africa
                   
                 </p>
               </div>

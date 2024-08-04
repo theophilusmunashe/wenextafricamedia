@@ -1,27 +1,33 @@
 [
   {
     "id": 1,
-    "title": "Panashe Makufa",
+    "title": "Tonylee ",
     "role": "Head Creative Department",
     "image": "/assets/imgs/team/t1.jpg"
   },
   {
     "id": 2,
-    "title": "Stephanie Kadzirange",
+    "title": "Tapiwa ",
     "role": "Cinematographer",
-    "image": "/assets/imgs/team/t2.jpg"
+    "image": "/assets/imgs/team/t2.jpeg"
   },
   {
     "id": 3,
     "title": "Nadia",
-    "role": "Designer",
+    "role": "Chief Editor",
     "image": "/assets/imgs/team/t3.jpg"
   },
   {
     "id": 4,
-    "title": "Theophilus Maposa",
-    "role": "Developer",
+    "title": "Theophilus ",
+    "role": "Production Assistant",
     "image": "/assets/imgs/team/t4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Panashe ",
+    "role": "Cinematographer",
+    "image": "/assets/imgs/team/t5.jpg"
   }
   
 ]

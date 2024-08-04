@@ -8,10 +8,10 @@
               <span class="icon-img-20 mr-10">
                 <img src="/landing-preview/img/star.svg" alt="" />
               </span>
-              Sources Consultants 
+              WeNext Africa Media 
             </h6>
-            <h2 class="fz-60 sub-title f-ultra-light">Weaving Your Narrative...</h2>
-            <a href="/Contact" class="butn butn-bord butn-cerv mt-30">
+            <h2 class="fz-60 sub-title f-ultra-light">TELLING YOUR CORPORATE STORY IN STYLE...</h2>
+            <a href="/about copy" class="butn butn-bord butn-cerv mt-30">
               <span class="sub-title ls1">Work With Us</span>
             </a>
           </div>

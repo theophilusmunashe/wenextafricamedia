@@ -19,7 +19,7 @@ definePageMeta({
 });
 //= Page Head
 useHead({
-  titleTemplate: `Sources-Consultants: Home`,
+  titleTemplate: `WeNext Africa Media: Home`,
   script: [
     { src: "/assets/js/smoother-script.js", defer: true }
   ]

@@ -15,7 +15,7 @@
 
 body {
   color: #fff;
-  background-color: #cc7c0c;
+  background-color: #282833;
   font-size: 14px;
   font-family: 'Poppins', sans-serif;
   font-family: 'Mona-Sans Regular', sans-serif;
@@ -303,11 +303,11 @@ figure {
 }
 
 .main-color {
-  color: #f1da78 !important;
+  color: #282833 !important;
 }
 
 .main-colorbg {
-  background-color: #f1da78;
+  background-color: #282833;
 }
 
 .main-bg {

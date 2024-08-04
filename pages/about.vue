@@ -19,7 +19,7 @@
 <script setup>
 //= Page Head
 useHead({
-  titleTemplate: `Sources-Consultants: About`,
+  titleTemplate: `WeNext Africa Media: About`,
   bodyAttrs: {
     class: 'main-bg'
   },

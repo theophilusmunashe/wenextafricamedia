@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-9 offset-lg-1">
           <div class="cont">
-            <h6 class="sub-title mb-15">Sources Consultants</h6>
+            <h6 class="sub-title mb-15">WeNext Media</h6>
             <h1 class="text-u">About Us</h1>
           </div>
         </div>

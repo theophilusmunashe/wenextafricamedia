@@ -7,14 +7,14 @@
             <span class="sub-title mb-15 opacity-8">- What We Believe?</span>
             <div class="text-reval">
               <h2 class="fz-50 text-u mb-30">
-                <span class="text">At Sources Consultants,  </span>
+                <span class="text">At WeNext Africa Media,  </span>
                 <span class="text">we believe that every brand </span>
                 <span class="text">has a unique story to tell.</span>
               </h2>
             </div>
             
             <p>
-              Sources Consultants is a young and
+              WeNext Africa Media is a young and
               energetic creative agency. We combine
               imaginative thinking with strategic planning
               to craft a stand-out image for your brand.Our mission is to uncover
@@ -33,16 +33,14 @@
               <ul class="list rest">
                 <li class="fz-18 mb-15"><span class="mr-10">+</span> Advertising Campaigns</li>
                 <li class="fz-18 mb-15"><span class="mr-10">+</span> Content Creation</li>
-                <li class="fz-18 mb-15"><span class="mr-10">+</span> Brand Strategy</li>
-                <li class="fz-18 mb-15"><span class="mr-10">+</span> Creative Services</li>
+                
               </ul>
             </div>
             <div class="col-md-4 sm-mb30">
               <ul class="list rest">
                 <li class="fz-18 mb-15"><span class="mr-10">+</span> Public Relations</li>
                 <li class="fz-18 mb-15"><span class="mr-10">+</span> Live Streaming</li>
-                <li class="fz-18 mb-15"><span class="mr-10">+</span> Social Media</li>
-                <li class="fz-18 mb-15"><span class="mr-10">+</span> Advertising</li>
+                
               </ul>
             </div>
             <div class="col-md-4">

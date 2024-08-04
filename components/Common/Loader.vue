@@ -6,25 +6,26 @@
     <div class="loader-wrap-heading">
       <span>
         <h2 class="load-text">
-          <span>S</span>
-          <span>o</span>
-          <span>u</span>
-          <span>r</span>
-          <span>c</span>
+          <span>W</span>
           <span>e</span>
-          <span>s</span>
+          <span>N</span>
+          <span>e</span>
+          <span>x</span>
+          <span>t</span>
           <span>-</span>
-          <span>C</span>
-          <span>o</span>
-          <span>n</span>
-          <span>s</span>
-          <span>u</span>
-          <span>l</span>
-          <span>t</span>
+          <span>A</span>
+          <span>f</span>
+          <span>r</span>
+          <span>i</span>
+          <span>c</span>
           <span>a</span>
-          <span>n</span>
-          <span>t</span>
-          <span>s</span>
+          <span>-</span>
+          <span>M</span>
+          <span>e</span>
+          <span>d</span>
+          <span>i</span>
+          <span>a</span>
+          
                   </h2>
       </span>
     </div>
