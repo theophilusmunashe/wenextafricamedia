@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Sources Consultants",
+      title: "WeNext Africa Media",
       htmlAttrs: {
         lang: 'en'
       },
@@ -28,11 +28,11 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Sources Consultants Sources Media Creative Agency Brand Strategy Advertising Campaigns Content Creation Creative Services Public Relations Digital Marketing Brand Identity Marketing Strategy Social Media Marketing Visual Design Graphic Design Video Production Corporate Branding Innovative MarketingMarketing Solutions Brand Development Strategic Planning'
+          content: 'WeNext Africa WeNext Africa Media Creative Agency Brand Strategy Advertising Campaigns Content Creation Creative Services Public Relations Digital Marketing Brand Identity Marketing Strategy Social Media Marketing Visual Design Graphic Design Video Production Corporate Branding Innovative MarketingMarketing Solutions Brand Development Strategic Planning'
         },
         {
           name: 'description',
-          content: 'Sources Media Consultants is a young and energetic creative agency. We combine imaginative thinking with strategic planning to craft a stand-out image for your brand'
+          content: 'WeNext Africa Media is a creativity powerhouse . We combine imaginative thinking with strategic planning to craft a stand-out corporate image.'
                 },
         {
           name: 'author',

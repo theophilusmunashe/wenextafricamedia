@@ -14,6 +14,7 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
+    "nuxt-app": "file:",
     "swiper": "^8.4.6"
   }
 }

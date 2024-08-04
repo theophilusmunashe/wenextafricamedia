@@ -643,7 +643,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./about copy-WbIn1gME.mjs').then((m) => m.default || m)
+    component: () => import('./about copy-DhWbMIxr.mjs').then((m) => m.default || m)
   },
   {
     name: "about",
@@ -651,7 +651,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./about-Db-s11NA.mjs').then((m) => m.default || m)
+    component: () => import('./about-CdmOf7ty.mjs').then((m) => m.default || m)
   },
   {
     name: "blog-details",
@@ -659,7 +659,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./blog-details-DcW70SD6.mjs').then((m) => m.default || m)
+    component: () => import('./blog-details-BOhWmI2E.mjs').then((m) => m.default || m)
   },
   {
     name: "blog",
@@ -667,7 +667,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./blog-D82nCGEQ.mjs').then((m) => m.default || m)
+    component: () => import('./blog-duZhNy1X.mjs').then((m) => m.default || m)
   },
   {
     name: "carousel-slider",
@@ -675,7 +675,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./carousel-slider-CCxrS_lb.mjs').then((m) => m.default || m)
+    component: () => import('./carousel-slider-DhFcI5TW.mjs').then((m) => m.default || m)
   },
   {
     name: "contact",
@@ -683,7 +683,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./contact-Db8-0Dap.mjs').then((m) => m.default || m)
+    component: () => import('./contact-BxYCRFEF.mjs').then((m) => m.default || m)
   },
   {
     name: "creative-agency",
@@ -691,7 +691,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./creative-agency-C4zV7Nze.mjs').then((m) => m.default || m)
+    component: () => import('./creative-agency-BgrH2z2M.mjs').then((m) => m.default || m)
   },
   {
     name: "creative-portfolio",
@@ -699,7 +699,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./creative-portfolio-Bo_ew28B.mjs').then((m) => m.default || m)
+    component: () => import('./creative-portfolio-BP6YpjOe.mjs').then((m) => m.default || m)
   },
   {
     name: "fullscreen",
@@ -707,7 +707,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./fullscreen-DrkM3nBJ.mjs').then((m) => m.default || m)
+    component: () => import('./fullscreen-WUdENlKj.mjs').then((m) => m.default || m)
   },
   {
     name: "half-slider",
@@ -715,7 +715,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./half-slider-Dw7KIZs_.mjs').then((m) => m.default || m)
+    component: () => import('./half-slider-DlGaFWWz.mjs').then((m) => m.default || m)
   },
   {
     name: (__nuxt_page_meta$c == null ? void 0 : __nuxt_page_meta$c.name) ?? "index",
@@ -731,7 +731,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./interactive-center-DV4DI1r6.mjs').then((m) => m.default || m)
+    component: () => import('./interactive-center-BIro7Ijw.mjs').then((m) => m.default || m)
   },
   {
     name: "interactive-full",
@@ -739,7 +739,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./interactive-full-Dpsc8JjI.mjs').then((m) => m.default || m)
+    component: () => import('./interactive-full-D_kqr0tw.mjs').then((m) => m.default || m)
   },
   {
     name: "interactive-inline",
@@ -747,7 +747,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./interactive-inline-CNJ0FKGh.mjs').then((m) => m.default || m)
+    component: () => import('./interactive-inline-cEGjMVO2.mjs').then((m) => m.default || m)
   },
   {
     name: "interactive-vertical",
@@ -755,7 +755,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./interactive-vertical-BJjQzDP9.mjs').then((m) => m.default || m)
+    component: () => import('./interactive-vertical-BC_PNZzT.mjs').then((m) => m.default || m)
   },
   {
     name: "landing",
@@ -763,7 +763,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./landing-CrDhPRdr.mjs').then((m) => m.default || m)
+    component: () => import('./landing-BZ39R9-V.mjs').then((m) => m.default || m)
   },
   {
     name: "portfolio-fixed-text",
@@ -771,7 +771,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./portfolio-fixed-text-CeZ_Z0pf.mjs').then((m) => m.default || m)
+    component: () => import('./portfolio-fixed-text-BG-AwIU7.mjs').then((m) => m.default || m)
   },
   {
     name: "portfolio-grid-classic",
@@ -779,7 +779,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./portfolio-grid-classic-DZ-cPUum.mjs').then((m) => m.default || m)
+    component: () => import('./portfolio-grid-classic-Dr4UsJHT.mjs').then((m) => m.default || m)
   },
   {
     name: "portfolio-grid",
@@ -787,7 +787,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./portfolio-grid-DVFXB0oI.mjs').then((m) => m.default || m)
+    component: () => import('./portfolio-grid-C9lbf8Bz.mjs').then((m) => m.default || m)
   },
   {
     name: "project1",
@@ -795,7 +795,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./project1-Fpw0BPF9.mjs').then((m) => m.default || m)
+    component: () => import('./project1-CQhSDTxF.mjs').then((m) => m.default || m)
   },
   {
     name: "project2",
@@ -803,7 +803,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./project2-9zLXrqqE.mjs').then((m) => m.default || m)
+    component: () => import('./project2-CAgVSNUZ.mjs').then((m) => m.default || m)
   },
   {
     name: "project3",
@@ -811,7 +811,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./project3-CssvW6ju.mjs').then((m) => m.default || m)
+    component: () => import('./project3-B4nav3B1.mjs').then((m) => m.default || m)
   },
   {
     name: "project4",
@@ -819,7 +819,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./project4-6omKHjSL.mjs').then((m) => m.default || m)
+    component: () => import('./project4-CdD1Ls0x.mjs').then((m) => m.default || m)
   }
 ];
 const _wrapIf = (component, props, slots) => {

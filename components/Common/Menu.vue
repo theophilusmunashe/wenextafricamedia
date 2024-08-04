@@ -36,7 +36,7 @@
                         </li>
                         <li>
                           <div class="o-hidden">
-                            <a href="/carousel-slider" class="sub-link animsition-link" @click="closeMenu">Sources Projects</a>
+                            <a href="/carousel-slider" class="sub-link animsition-link" @click="closeMenu">WeNext Africa Projects</a>
                           </div>
                         </li>
                        
